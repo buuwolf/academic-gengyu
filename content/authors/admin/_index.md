@@ -23,7 +23,7 @@ bio: My research interests include machine learning and Data Mining.
 interests:
 - Weakly Supervised Learning
 - Multi Label Learning
-- Multi Class Learning
+
 
 education:
   courses:
