@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "123"
+    category = "456"
+    publication_type = "234"
+    author = "456"
     exclude_featured = false
   
 [design]
