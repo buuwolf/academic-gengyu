@@ -18,9 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and computer vision.
+bio: My research interests include machine learning and Data Mining.
 
 interests:
+- Weakly Supervised Learning
 - Multi Label Learning
 - Partial Label Learning
 
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Lyu Gengyu is a 3rd year PhD student at Beijing Jiaotong University. His research interests include machine learning and computer vision. 
+I am a PhD student of School of Computer and Information Technology in Beijing Jiaotong University, supervised by Prof. Songhe Feng. My research interests include machine learning and Data Mining. 
